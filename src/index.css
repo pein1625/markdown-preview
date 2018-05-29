@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+}
+.type-box {
+  width: 50%;
+  height: calc(100vh - 20px);
+  margin-right: 10px;
+}
+.view-box {
+  border: 1px solid red;
+  width: 50%;
+}
